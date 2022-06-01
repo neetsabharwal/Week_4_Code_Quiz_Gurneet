@@ -32,8 +32,8 @@ The following animation demonstrates the application functionality:
 
 You are required to submit the following for review:
 
-* The URL of the functional deployed application: 
+* The URL of the functional deployed application: https://neetsabharwal.github.io/Week_4_Code_Quiz_Gurneet/
 
 * The URL of the GitHub repository: https://github.com/neetsabharwal/Week_4_Code_Quiz_Gurneet
 
-<img src="./Assets/images/04-web-apis-homework-demo.gif">
+<img src="./Assets/images/CodeQuiz.png">
